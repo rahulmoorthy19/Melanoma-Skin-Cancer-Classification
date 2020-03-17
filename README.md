@@ -13,3 +13,7 @@ The description of each script is stated here-
 8. embedding- This script is for building the embedding for the graph.
 9. graph_embedding + nn - This script is for trying out the model of passing the graph embedding through a FCNN
 10. embedding+graph+nn- This script is the best model which ensembles graph embedding and shape based features and regional adjacency graph.
+
+The Harp implementation is inspired and taken through this repository-
+https://github.com/GTmac/HARP
+An official implementation by the author
